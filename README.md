@@ -1,1 +1,1 @@
-Live chatroom using JavaScript and Firebase SQL.
+Live chatroom using JavaScript and Firebase NoSQL database.
